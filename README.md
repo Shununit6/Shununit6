@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 , I am Shun
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning [LabelStudio, ](https://labelstud.io/) & [TypeScript ](https://www.typescriptlang.org/)
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
 
 <!--
 **Shununit6/Shununit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
