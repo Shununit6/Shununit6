@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [TravelerNote ](https://github.com/Shununit6/TravelerNote).
 - 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [TypeScript ](https://www.typescriptlang.org/).
-- 👨‍💻 Most of my projects are available on [Github].
+- 👨‍💻 Most of my projects are available on [Github]().
 - 💬 Ask me about Javascript | Python | Express | Redux | React
 - 📫 How to reach me: 
 - ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
