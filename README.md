@@ -2,13 +2,12 @@
 
 - 🔭 I’m currently working on [TravelerNote ](https://github.com/Shununit6/TravelerNote).
 - 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [TypeScript ](https://www.typescriptlang.org/).
-- 👨‍💻 Most of my projects are available on [Github]().
-- 🤔 I’m looking for help with Javascript | Python | Express | Redux | React
-- 💬 Ask me about Javascript | Python | Express | Redux | React [Trader Joe's](https://www.traderjoes.com/home#) and [Understanding Comics](https://scottmccloud.com/2-print/1-uc/)
+- 👨‍💻 Most of my projects are available on [Github].
+- 💬 Ask me about Javascript | Python | Express | Redux | React
 - 📫 How to reach me: 
 - ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
 - 📖 Recent Books: [Understanding Comics](https://scottmccloud.com/2-print/1-uc/) and [How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness](https://www.barnesandnoble.com/w/how-to-stop-feeling-like-sh-t-andrea-owen/1126365131)
-  
+- 😊 Love plants and animated shows.
 <!--
 **Shununit6/Shununit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
