@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [TypeScript ](https://www.typescriptlang.org/).
 - 👨‍💻 Most of my projects are available on [Github]().
 - 💬 Ask me about Javascript | Python | Express | Redux | React
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shun-xu-a0895918b/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shun-xu-a0895918b/)
 - ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
 - 📖 Recent Books: [Understanding Comics](https://scottmccloud.com/2-print/1-uc/) and [How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness](https://www.barnesandnoble.com/w/how-to-stop-feeling-like-sh-t-andrea-owen/1126365131)
 - 😊 Love plants and animated shows.
@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
 -->
