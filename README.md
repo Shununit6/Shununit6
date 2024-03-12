@@ -3,7 +3,7 @@
 I recently completed the Full Stack program at [AppAcademy](https://www.appacademy.io/course/part-time/software-engineer-online) and I am now eagerly pursuing employment opportunities in software development. I am particularly drawn to roles that offer continuous learning and professional growth.
 
 - 🔭 I’m currently working on [TravelerNote ](https://github.com/Shununit6/TravelerNote).
-- 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [TypeScript ](https://www.typescriptlang.org/).
+- 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/).
 - 🤔 I’m looking for help with Data Structure and Algorithms.
 - 👨‍💻 Most of my projects are available on [Github]().
 - 💬 Ask me about Javascript | Python | Express | Redux | React
