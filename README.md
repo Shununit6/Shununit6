@@ -11,8 +11,6 @@
 - 📖 Recent Books: [Understanding Comics](https://scottmccloud.com/2-print/1-uc/) and [How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness](https://www.barnesandnoble.com/w/how-to-stop-feeling-like-sh-t-andrea-owen/1126365131)
 - 😊 Love plants and animated shows.
 
-![Thankyou](https://github.com/Shununit6/Shununit6/assets/29720392/4994df5e-a2cf-4678-99ea-e2af788b3105)
-
 
 <!--
 **Shununit6/Shununit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
