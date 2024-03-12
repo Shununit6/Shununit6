@@ -1,6 +1,6 @@
 ![hi-1](https://github.com/Shununit6/Shununit6/assets/29720392/5650abd0-ff50-4563-932c-43cabf11c6f9)
 
-I am presently employed as a Data Annotator at [SurveyMonkey](https://www.surveymonkey.com/), collaborating with Data Scientists to enhance model performance. I recently completed the Full Stack program at [AppAcademy](https://www.appacademy.io/course/part-time/software-engineer-online) and I am now eagerly pursuing employment opportunities in software development. I am particularly drawn to roles that offer continuous learning and professional growth.
+I recently completed the Full Stack program at [AppAcademy](https://www.appacademy.io/course/part-time/software-engineer-online) and I am now eagerly pursuing employment opportunities in software development. I am particularly drawn to roles that offer continuous learning and professional growth.
 
 - 🔭 I’m currently working on [TravelerNote ](https://github.com/Shununit6/TravelerNote).
 - 🌱 I’m currently learning [LabelStudio ](https://labelstud.io/) and [TypeScript ](https://www.typescriptlang.org/).
@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+I am presently employed as a Data Annotator at [SurveyMonkey](https://www.surveymonkey.com/), collaborating with Data Scientists to enhance model performance.
 -->
