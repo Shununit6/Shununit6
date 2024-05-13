@@ -10,7 +10,6 @@ I recently completed the Full Stack program at [AppAcademy](https://www.appacade
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shun-xu-a0895918b/)
 - 📖 Recent Books: [Understanding Comics](https://scottmccloud.com/2-print/1-uc/) and [How to Stop Feeling Like Sh*t: 14 Habits that Are Holding You Back from Happiness](https://www.barnesandnoble.com/w/how-to-stop-feeling-like-sh-t-andrea-owen/1126365131)
 - 😊 Love plants and animated shows.
-- ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
 
 <!--
 **Shununit6/Shununit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact: 我最近很喜欢听二手玫瑰。
 I am presently employed as a Data Annotator at [SurveyMonkey](https://www.surveymonkey.com/), collaborating with Data Scientists to enhance model performance.
 -->
